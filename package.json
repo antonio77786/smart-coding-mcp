@@ -1,6 +1,6 @@
 {
   "name": "smart-coding-mcp",
-  "version": "0.1.12",
+  "version": "0.1.13",
   "description": "An extensible Model Context Protocol (MCP-Local-MRL-RAG-AST) server that provides intelligent semantic code search for AI assistants. Built with local AI models, inspired by Cursor's semantic search.",
   "main": "src/index.js",
   "scripts": {
